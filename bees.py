@@ -215,9 +215,9 @@ def main():
     cycle = 1
 
     # Data source
-    # data = read_data_from_csv("data/data_10.csv")
+    data = read_data_from_csv("data/data_10.csv")
     # data = read_data_from_csv("data/data_11.csv")
-    data = read_data_from_csv("data/data_12.csv")
+    #data = read_data_from_csv("data/data_12.csv")
 
     # Global vars
     best_distance = sys.maxsize
